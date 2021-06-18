@@ -9,6 +9,8 @@ import org.junit.runner.RunWith;
         //plugin = {}
         features = "src/test/resources/features",
         glue = "com/someCompanyName/step_definitions",
+
+
         dryRun = false,
         tags = ""
 )
